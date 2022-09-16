@@ -6,7 +6,14 @@
 
 ---
 
-<h2 align="center">📍 GitHub Activity</h2>
+<h2 align="center">👀 Profile Views</h2>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/6A-Realm/count.svg" />
+</p>
+
+---
+
+<h3 align="center">📍 GitHub Activity</h3>
 <p align="center">
     <img src="https://profile-counter.glitch.me/6A-Realm/count.svg" />
 <p align="center">
