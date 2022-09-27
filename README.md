@@ -15,7 +15,5 @@
 
 <h3 align="center">📍 GitHub Activity</h3>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/6A-Realm/count.svg" />
-<p align="center">
     <img src="https://github.com/6A-Realm/6A-Realm/blob/output/github-contribution-grid-snake.svg" />
 </p>
